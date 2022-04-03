@@ -1,4 +1,5 @@
-<p> Olá Meu nome é <b>Pedro Antunes</b>, Estou Cursando Informatica para Internet no IFSP(Instituto Federal do Estado de São Paulo)</p>
+Hi, My name is <b>Pedro Antunes</b><BR>
+Studying <b>Computer for Internet - IFSP</b></p>
 
 <div>
   <a href="https://github.com/pedroantunes0">
